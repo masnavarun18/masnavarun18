@@ -3,7 +3,6 @@
 I am a passionate **Bachelor of Computer Applications (BCA)** student and software engineer focusing on client-side architectures, front-end technologies, and building highly accessible web applications. I love diving deep into browser mechanics and engineering clean, efficient solutions.
 
 ## 🚀 Highlights
-- 🏆 **Top 10 Finalist** out of 150+ teams at the National Level Hackathon 2025.
 - 💼 **Ex-AI Software Engineering Intern** @ Skillbanc.com, Inc.
 - 📊 **Ex-Data Analytics Intern (Job Simulation)** @ Deloitte Australia.
 
